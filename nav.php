@@ -34,6 +34,9 @@
                             <li class="nav-item">
                             <a class="nav-link" href="LecList.php">Lecturer</a>
                             </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="LecList.php">Create Exam</a>
+                            </li>
 
                         <?php
                     }

@@ -49,7 +49,7 @@
         if (mysqli_num_rows($result) > 0) {
 
             while($row = mysqli_fetch_assoc($result)) {
-                $_SESSION['loggeduser'] = $row["username"];
+                $_SESSION['loggeduser'] = $row["fullname"];
                 $_SESSION['Login'] = "student";
                 header("Location: StuList.php");
             }
