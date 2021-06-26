@@ -15,3 +15,4 @@ setcookie("name","value", time() + 1000); // time in seconds
 
 
 setcookie("email","john@bcas.lk", time() + 10);
+

@@ -1,3 +1,4 @@
 <?php
 
-setcookie("email","john@bcas.lk", time() + 86400);
+setcookie("email","john@bcas.lk", time() - 86400);
+
