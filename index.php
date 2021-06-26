@@ -18,7 +18,7 @@
         <!-- logo start -->
         <div class="row">
             <div class="col-md-4 offset-md-4">
-                <img src="images/logo.png" alt="" width="200px" class="mx-auto d-block m-4">
+                <img src="http://www.clipartbest.com/cliparts/KTj/Xe9/KTjXe9dgc.png" alt="" width="200px" class="mx-auto d-block m-4">
             </div>
         </div>
         <!-- logo end -->
@@ -91,6 +91,7 @@
         }
 
     </script>
+    <!-- Test -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
